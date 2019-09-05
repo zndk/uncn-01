@@ -37,6 +37,8 @@ handlers:
 #- name: jinja2
 #  version: latest
 
+# comment
+
 instance_class: F1
 automatic_scaling:
   target_cpu_utilization: 0.70
