@@ -37,7 +37,7 @@ handlers:
 #- name: jinja2
 #  version: latest
 
-# comment
+# comment 2
 
 instance_class: F1
 automatic_scaling:
